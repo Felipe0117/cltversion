@@ -1,0 +1,14 @@
+body section{
+    margin-bottom: 50px;
+    border: 2px solid black;
+    width: 80vw;
+    border-radius: 6px;
+    padding: 10px;
+    margin-left: 8vw;
+    background-color: white;
+    text-align: left;
+}
+body{
+    background-color: rgb(0, 81, 134);
+    text-align: center;
+}
